@@ -1,0 +1,5 @@
+E:\WorkSpace\GitHub\DesignPattern\Singleton\Singleton\bin\Debug\Singleton.exe.config
+E:\WorkSpace\GitHub\DesignPattern\Singleton\Singleton\bin\Debug\Singleton.exe
+E:\WorkSpace\GitHub\DesignPattern\Singleton\Singleton\bin\Debug\Singleton.pdb
+E:\WorkSpace\GitHub\DesignPattern\Singleton\Singleton\obj\x86\Debug\Singleton.exe
+E:\WorkSpace\GitHub\DesignPattern\Singleton\Singleton\obj\x86\Debug\Singleton.pdb
